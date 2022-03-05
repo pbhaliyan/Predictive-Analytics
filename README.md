@@ -1,2 +1,3 @@
 # Predictive-Analytics
-Implementing Predictive Analytics in Python
+Implementing Predictive Analytics in Python 
+There are many predictive analytics machine learning models. The most common is the decision tree model linear regression. In this code, we will be using Linear Regression, Support Vector Machine, Random Forest Regression Model, Decision Trees and Hyper Parameterization. We will be starting with finding and treating missing values in our dataset. The next step would be to convert the categorical data into numerical data using Lable Encoding and Hot Encoding. Then, we would be procedding to feature scaling techniqe using normalization and standard scaling method. Eventually we will be training and testing our models and comparing the accuray scores of the models
